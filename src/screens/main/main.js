@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Navbar from '../navbar/navbar';
-import Header from '../header/header';
+import Header from '../Header/Header';
 import Container from '../container/container';
 import Footer from '../footer/footer';
 
