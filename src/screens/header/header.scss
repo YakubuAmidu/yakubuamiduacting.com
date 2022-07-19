@@ -28,7 +28,7 @@
 
 .content {
   position: absolute;
-  top: 9rem;
+  top: 10rem;
   left: 5rem;
   width: 60%;
   opacity: 0;
@@ -70,6 +70,10 @@
   opacity: 1;
 };
 
+P {
+  text-align: justify;
+}
+
 .arrow {
   border: 2px solid green;
   border-radius: 50%;
@@ -84,7 +88,7 @@
 };
 
 .arrow:hover {
-  background: blue;
+  background: #fff;
   color: #777;
 };
 
