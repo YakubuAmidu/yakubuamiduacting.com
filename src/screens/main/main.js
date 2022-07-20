@@ -7,9 +7,7 @@ const main = () => {
   return (
     <div className='main'>
       <Navbar />
-      <hr />
       <Header />
-      <hr />
     </div>
   )
 };
